@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/adilfaiz001/WS_WebPortal#readme",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "nodemon": "^1.18.4"
   }
 }
